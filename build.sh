@@ -2,7 +2,7 @@
 
 # Just a basic script U can improvise lateron asper ur need xD 
 
-MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp -b twrp-11"
+MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp -b twrp-12.1"
 
 DT_PATH=device/xiaomi/camellia
 DT_LINK="https://github.com/willzyx-hub/twrp_device_xiaomi_camellia_12.0 -b android-12.0"
