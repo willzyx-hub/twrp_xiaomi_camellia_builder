@@ -5,7 +5,7 @@
 MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp -b twrp-12.1"
 
 DT_PATH=device/xiaomi/camellia
-DT_LINK="https://github.com/willzyx-hub/twrp_device_xiaomi_camellia_12.0 -b android-12.0"
+DT_LINK="https://github.com/willzyx-hub/twrp_device_xiaomi_camellia -b android-11.0"
 
 echo " ===+++ Setting up Build Environment +++==="
 apt install openssh-server -y
