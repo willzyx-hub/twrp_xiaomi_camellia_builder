@@ -5,7 +5,7 @@ name: linux
 
 platform:
   arch: amd64
-  os: ubuntu-22.04
+  os: ubuntu
 
 steps:
 - name: Start syncing && Compiling
